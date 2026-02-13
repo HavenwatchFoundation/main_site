@@ -1,6 +1,6 @@
 import { useState } from "react";
 import { motion, AnimatePresence } from "framer-motion";
-import { Search, Scale, Cog, MessageSquare, ChevronDown, ChevronUp, ArrowRight } from "lucide-react";
+import { Search, Scale, Cog, MessageSquare, ChevronDown, ArrowRight } from "lucide-react";
 
 interface Department {
   id: string;

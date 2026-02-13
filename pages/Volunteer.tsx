@@ -1,5 +1,5 @@
 import { motion } from "framer-motion";
-import { Users, ArrowRight, Heart, CheckCircle } from "lucide-react";
+import { ArrowRight, Heart, CheckCircle } from "lucide-react";
 
 export function Volunteer() {
     return (
