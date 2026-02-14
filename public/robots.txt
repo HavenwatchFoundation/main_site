@@ -1,0 +1,6 @@
+# robots.txt for Havenwatch Platform
+User-agent: *
+Allow: /
+Disallow:
+
+Sitemap: https://www.havenwatchfoundation.org/sitemap.xml
