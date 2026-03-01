@@ -143,10 +143,10 @@ export function Resources() {
                 If you have questions about accessing specific documents or require
                 clarification on any policy, please contact us at{" "}
                 <a
-                  href="mailto:support@havenwatchfoundation.com"
+                  href="mailto:support@havenwatchfoundation.org"
                   className="text-primary-600 font-medium underline hover:text-primary-700"
                 >
-                  support@havenwatchfoundation.com
+                  support@havenwatchfoundation.org
                 </a>
               </p>
             </div>
